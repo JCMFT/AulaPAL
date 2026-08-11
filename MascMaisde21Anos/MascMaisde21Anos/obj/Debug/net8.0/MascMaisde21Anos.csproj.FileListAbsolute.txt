@@ -1,0 +1,14 @@
+C:\Users\joaquim.trindade\Desktop\PAL\MascMaisde21Anos\MascMaisde21Anos\bin\Debug\net8.0\MascMaisde21Anos.exe
+C:\Users\joaquim.trindade\Desktop\PAL\MascMaisde21Anos\MascMaisde21Anos\bin\Debug\net8.0\MascMaisde21Anos.deps.json
+C:\Users\joaquim.trindade\Desktop\PAL\MascMaisde21Anos\MascMaisde21Anos\bin\Debug\net8.0\MascMaisde21Anos.runtimeconfig.json
+C:\Users\joaquim.trindade\Desktop\PAL\MascMaisde21Anos\MascMaisde21Anos\bin\Debug\net8.0\MascMaisde21Anos.dll
+C:\Users\joaquim.trindade\Desktop\PAL\MascMaisde21Anos\MascMaisde21Anos\bin\Debug\net8.0\MascMaisde21Anos.pdb
+C:\Users\joaquim.trindade\Desktop\PAL\MascMaisde21Anos\MascMaisde21Anos\obj\Debug\net8.0\MascMaisde21Anos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaquim.trindade\Desktop\PAL\MascMaisde21Anos\MascMaisde21Anos\obj\Debug\net8.0\MascMaisde21Anos.AssemblyInfoInputs.cache
+C:\Users\joaquim.trindade\Desktop\PAL\MascMaisde21Anos\MascMaisde21Anos\obj\Debug\net8.0\MascMaisde21Anos.AssemblyInfo.cs
+C:\Users\joaquim.trindade\Desktop\PAL\MascMaisde21Anos\MascMaisde21Anos\obj\Debug\net8.0\MascMaisde21Anos.csproj.CoreCompileInputs.cache
+C:\Users\joaquim.trindade\Desktop\PAL\MascMaisde21Anos\MascMaisde21Anos\obj\Debug\net8.0\MascMaisde21Anos.dll
+C:\Users\joaquim.trindade\Desktop\PAL\MascMaisde21Anos\MascMaisde21Anos\obj\Debug\net8.0\refint\MascMaisde21Anos.dll
+C:\Users\joaquim.trindade\Desktop\PAL\MascMaisde21Anos\MascMaisde21Anos\obj\Debug\net8.0\MascMaisde21Anos.pdb
+C:\Users\joaquim.trindade\Desktop\PAL\MascMaisde21Anos\MascMaisde21Anos\obj\Debug\net8.0\MascMaisde21Anos.genruntimeconfig.cache
+C:\Users\joaquim.trindade\Desktop\PAL\MascMaisde21Anos\MascMaisde21Anos\obj\Debug\net8.0\ref\MascMaisde21Anos.dll

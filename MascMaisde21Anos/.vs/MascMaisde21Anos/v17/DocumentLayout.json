@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\MascMaisde21Anos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAAF7628-E4F6-45D4-BE35-39CC2EB92C0E}|MascMaisde21Anos\\MascMaisde21Anos.csproj|c:\\users\\joaquim.trindade\\desktop\\pal\\mascmaisde21anos\\mascmaisde21anos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAAF7628-E4F6-45D4-BE35-39CC2EB92C0E}|MascMaisde21Anos\\MascMaisde21Anos.csproj|solutionrelative:mascmaisde21anos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\MascMaisde21Anos\\MascMaisde21Anos\\Program.cs",
+              "RelativeDocumentMoniker": "MascMaisde21Anos\\Program.cs",
+              "ToolTip": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\MascMaisde21Anos\\MascMaisde21Anos\\Program.cs",
+              "RelativeToolTip": "MascMaisde21Anos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T13:51:32.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

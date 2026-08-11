@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Na100\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CFF3E2-D679-4C21-A8F9-3D4051994C60}|Na100\\Na100.csproj|c:\\users\\joaquim.trindade\\desktop\\pal\\na100\\na100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CFF3E2-D679-4C21-A8F9-3D4051994C60}|Na100\\Na100.csproj|solutionrelative:na100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Na100\\Na100\\Program.cs",
+              "RelativeDocumentMoniker": "Na100\\Program.cs",
+              "ToolTip": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Na100\\Na100\\Program.cs",
+              "RelativeToolTip": "Na100\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T18:20:18.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

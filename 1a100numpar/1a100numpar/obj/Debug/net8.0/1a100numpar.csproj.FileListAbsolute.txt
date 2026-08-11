@@ -1,0 +1,14 @@
+C:\Users\joaquim.trindade\Desktop\PAL\1a100numpar\1a100numpar\bin\Debug\net8.0\1a100numpar.exe
+C:\Users\joaquim.trindade\Desktop\PAL\1a100numpar\1a100numpar\bin\Debug\net8.0\1a100numpar.deps.json
+C:\Users\joaquim.trindade\Desktop\PAL\1a100numpar\1a100numpar\bin\Debug\net8.0\1a100numpar.runtimeconfig.json
+C:\Users\joaquim.trindade\Desktop\PAL\1a100numpar\1a100numpar\bin\Debug\net8.0\1a100numpar.dll
+C:\Users\joaquim.trindade\Desktop\PAL\1a100numpar\1a100numpar\bin\Debug\net8.0\1a100numpar.pdb
+C:\Users\joaquim.trindade\Desktop\PAL\1a100numpar\1a100numpar\obj\Debug\net8.0\1a100numpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaquim.trindade\Desktop\PAL\1a100numpar\1a100numpar\obj\Debug\net8.0\1a100numpar.AssemblyInfoInputs.cache
+C:\Users\joaquim.trindade\Desktop\PAL\1a100numpar\1a100numpar\obj\Debug\net8.0\1a100numpar.AssemblyInfo.cs
+C:\Users\joaquim.trindade\Desktop\PAL\1a100numpar\1a100numpar\obj\Debug\net8.0\1a100numpar.csproj.CoreCompileInputs.cache
+C:\Users\joaquim.trindade\Desktop\PAL\1a100numpar\1a100numpar\obj\Debug\net8.0\1a100numpar.dll
+C:\Users\joaquim.trindade\Desktop\PAL\1a100numpar\1a100numpar\obj\Debug\net8.0\refint\1a100numpar.dll
+C:\Users\joaquim.trindade\Desktop\PAL\1a100numpar\1a100numpar\obj\Debug\net8.0\1a100numpar.pdb
+C:\Users\joaquim.trindade\Desktop\PAL\1a100numpar\1a100numpar\obj\Debug\net8.0\1a100numpar.genruntimeconfig.cache
+C:\Users\joaquim.trindade\Desktop\PAL\1a100numpar\1a100numpar\obj\Debug\net8.0\ref\1a100numpar.dll
