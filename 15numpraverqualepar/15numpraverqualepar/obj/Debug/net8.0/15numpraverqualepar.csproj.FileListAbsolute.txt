@@ -1,0 +1,15 @@
+C:\Users\joaquim.trindade\Desktop\PAL\15numpraverqualepar\15numpraverqualepar\obj\Debug\net8.0\15numpraverqualepar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaquim.trindade\Desktop\PAL\15numpraverqualepar\15numpraverqualepar\obj\Debug\net8.0\15numpraverqualepar.AssemblyInfoInputs.cache
+C:\Users\joaquim.trindade\Desktop\PAL\15numpraverqualepar\15numpraverqualepar\obj\Debug\net8.0\15numpraverqualepar.AssemblyInfo.cs
+C:\Users\joaquim.trindade\Desktop\PAL\15numpraverqualepar\15numpraverqualepar\obj\Debug\net8.0\15numpraverqualepar.csproj.CoreCompileInputs.cache
+C:\Users\joaquim.trindade\Desktop\PAL\15numpraverqualepar\15numpraverqualepar\obj\Debug\net8.0\15numpraverqualepar.sourcelink.json
+C:\Users\joaquim.trindade\Desktop\PAL\15numpraverqualepar\15numpraverqualepar\bin\Debug\net8.0\15numpraverqualepar.exe
+C:\Users\joaquim.trindade\Desktop\PAL\15numpraverqualepar\15numpraverqualepar\bin\Debug\net8.0\15numpraverqualepar.deps.json
+C:\Users\joaquim.trindade\Desktop\PAL\15numpraverqualepar\15numpraverqualepar\bin\Debug\net8.0\15numpraverqualepar.runtimeconfig.json
+C:\Users\joaquim.trindade\Desktop\PAL\15numpraverqualepar\15numpraverqualepar\bin\Debug\net8.0\15numpraverqualepar.dll
+C:\Users\joaquim.trindade\Desktop\PAL\15numpraverqualepar\15numpraverqualepar\bin\Debug\net8.0\15numpraverqualepar.pdb
+C:\Users\joaquim.trindade\Desktop\PAL\15numpraverqualepar\15numpraverqualepar\obj\Debug\net8.0\15numpraverqualepar.dll
+C:\Users\joaquim.trindade\Desktop\PAL\15numpraverqualepar\15numpraverqualepar\obj\Debug\net8.0\refint\15numpraverqualepar.dll
+C:\Users\joaquim.trindade\Desktop\PAL\15numpraverqualepar\15numpraverqualepar\obj\Debug\net8.0\15numpraverqualepar.pdb
+C:\Users\joaquim.trindade\Desktop\PAL\15numpraverqualepar\15numpraverqualepar\obj\Debug\net8.0\15numpraverqualepar.genruntimeconfig.cache
+C:\Users\joaquim.trindade\Desktop\PAL\15numpraverqualepar\15numpraverqualepar\obj\Debug\net8.0\ref\15numpraverqualepar.dll

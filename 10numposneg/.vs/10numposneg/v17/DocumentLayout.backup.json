@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\10numposneg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E996604-089D-45C5-BFAF-02C089516FC1}|10numposneg\\10numposneg.csproj|c:\\users\\joaquim.trindade\\desktop\\pal\\10numposneg\\10numposneg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E996604-089D-45C5-BFAF-02C089516FC1}|10numposneg\\10numposneg.csproj|solutionrelative:10numposneg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\10numposneg\\10numposneg\\Program.cs",
+              "RelativeDocumentMoniker": "10numposneg\\Program.cs",
+              "ToolTip": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\10numposneg\\10numposneg\\Program.cs",
+              "RelativeToolTip": "10numposneg\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T18:10:05.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
