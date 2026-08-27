@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MenorIgualQuadr")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bc5724ff78df1f747e6e921e67cb9d98c6931d4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9edc89c7ddb46d4a8dc92cb8bc4350f75b836cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("MenorIgualQuadr")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MenorIgualQuadr")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
