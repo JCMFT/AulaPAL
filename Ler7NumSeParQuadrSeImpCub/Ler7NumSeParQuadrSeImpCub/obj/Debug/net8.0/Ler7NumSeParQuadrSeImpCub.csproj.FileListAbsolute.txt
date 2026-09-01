@@ -1,0 +1,15 @@
+C:\Users\joaquim.trindade\Desktop\PAL\Ler7NumSeParQuadrSeImpCub\Ler7NumSeParQuadrSeImpCub\bin\Debug\net8.0\Ler7NumSeParQuadrSeImpCub.exe
+C:\Users\joaquim.trindade\Desktop\PAL\Ler7NumSeParQuadrSeImpCub\Ler7NumSeParQuadrSeImpCub\bin\Debug\net8.0\Ler7NumSeParQuadrSeImpCub.deps.json
+C:\Users\joaquim.trindade\Desktop\PAL\Ler7NumSeParQuadrSeImpCub\Ler7NumSeParQuadrSeImpCub\bin\Debug\net8.0\Ler7NumSeParQuadrSeImpCub.runtimeconfig.json
+C:\Users\joaquim.trindade\Desktop\PAL\Ler7NumSeParQuadrSeImpCub\Ler7NumSeParQuadrSeImpCub\bin\Debug\net8.0\Ler7NumSeParQuadrSeImpCub.dll
+C:\Users\joaquim.trindade\Desktop\PAL\Ler7NumSeParQuadrSeImpCub\Ler7NumSeParQuadrSeImpCub\bin\Debug\net8.0\Ler7NumSeParQuadrSeImpCub.pdb
+C:\Users\joaquim.trindade\Desktop\PAL\Ler7NumSeParQuadrSeImpCub\Ler7NumSeParQuadrSeImpCub\obj\Debug\net8.0\Ler7NumSeParQuadrSeImpCub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaquim.trindade\Desktop\PAL\Ler7NumSeParQuadrSeImpCub\Ler7NumSeParQuadrSeImpCub\obj\Debug\net8.0\Ler7NumSeParQuadrSeImpCub.AssemblyInfoInputs.cache
+C:\Users\joaquim.trindade\Desktop\PAL\Ler7NumSeParQuadrSeImpCub\Ler7NumSeParQuadrSeImpCub\obj\Debug\net8.0\Ler7NumSeParQuadrSeImpCub.AssemblyInfo.cs
+C:\Users\joaquim.trindade\Desktop\PAL\Ler7NumSeParQuadrSeImpCub\Ler7NumSeParQuadrSeImpCub\obj\Debug\net8.0\Ler7NumSeParQuadrSeImpCub.csproj.CoreCompileInputs.cache
+C:\Users\joaquim.trindade\Desktop\PAL\Ler7NumSeParQuadrSeImpCub\Ler7NumSeParQuadrSeImpCub\obj\Debug\net8.0\Ler7NumSeParQuadrSeImpCub.sourcelink.json
+C:\Users\joaquim.trindade\Desktop\PAL\Ler7NumSeParQuadrSeImpCub\Ler7NumSeParQuadrSeImpCub\obj\Debug\net8.0\Ler7NumSeParQuadrSeImpCub.dll
+C:\Users\joaquim.trindade\Desktop\PAL\Ler7NumSeParQuadrSeImpCub\Ler7NumSeParQuadrSeImpCub\obj\Debug\net8.0\refint\Ler7NumSeParQuadrSeImpCub.dll
+C:\Users\joaquim.trindade\Desktop\PAL\Ler7NumSeParQuadrSeImpCub\Ler7NumSeParQuadrSeImpCub\obj\Debug\net8.0\Ler7NumSeParQuadrSeImpCub.pdb
+C:\Users\joaquim.trindade\Desktop\PAL\Ler7NumSeParQuadrSeImpCub\Ler7NumSeParQuadrSeImpCub\obj\Debug\net8.0\Ler7NumSeParQuadrSeImpCub.genruntimeconfig.cache
+C:\Users\joaquim.trindade\Desktop\PAL\Ler7NumSeParQuadrSeImpCub\Ler7NumSeParQuadrSeImpCub\obj\Debug\net8.0\ref\Ler7NumSeParQuadrSeImpCub.dll

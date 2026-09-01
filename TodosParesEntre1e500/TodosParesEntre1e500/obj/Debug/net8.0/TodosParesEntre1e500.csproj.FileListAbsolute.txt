@@ -1,0 +1,15 @@
+C:\Users\joaquim.trindade\Desktop\PAL\TodosParesEntre1e500\TodosParesEntre1e500\bin\Debug\net8.0\TodosParesEntre1e500.exe
+C:\Users\joaquim.trindade\Desktop\PAL\TodosParesEntre1e500\TodosParesEntre1e500\bin\Debug\net8.0\TodosParesEntre1e500.deps.json
+C:\Users\joaquim.trindade\Desktop\PAL\TodosParesEntre1e500\TodosParesEntre1e500\bin\Debug\net8.0\TodosParesEntre1e500.runtimeconfig.json
+C:\Users\joaquim.trindade\Desktop\PAL\TodosParesEntre1e500\TodosParesEntre1e500\bin\Debug\net8.0\TodosParesEntre1e500.dll
+C:\Users\joaquim.trindade\Desktop\PAL\TodosParesEntre1e500\TodosParesEntre1e500\bin\Debug\net8.0\TodosParesEntre1e500.pdb
+C:\Users\joaquim.trindade\Desktop\PAL\TodosParesEntre1e500\TodosParesEntre1e500\obj\Debug\net8.0\TodosParesEntre1e500.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaquim.trindade\Desktop\PAL\TodosParesEntre1e500\TodosParesEntre1e500\obj\Debug\net8.0\TodosParesEntre1e500.AssemblyInfoInputs.cache
+C:\Users\joaquim.trindade\Desktop\PAL\TodosParesEntre1e500\TodosParesEntre1e500\obj\Debug\net8.0\TodosParesEntre1e500.AssemblyInfo.cs
+C:\Users\joaquim.trindade\Desktop\PAL\TodosParesEntre1e500\TodosParesEntre1e500\obj\Debug\net8.0\TodosParesEntre1e500.csproj.CoreCompileInputs.cache
+C:\Users\joaquim.trindade\Desktop\PAL\TodosParesEntre1e500\TodosParesEntre1e500\obj\Debug\net8.0\TodosParesEntre1e500.sourcelink.json
+C:\Users\joaquim.trindade\Desktop\PAL\TodosParesEntre1e500\TodosParesEntre1e500\obj\Debug\net8.0\TodosParesEntre1e500.dll
+C:\Users\joaquim.trindade\Desktop\PAL\TodosParesEntre1e500\TodosParesEntre1e500\obj\Debug\net8.0\refint\TodosParesEntre1e500.dll
+C:\Users\joaquim.trindade\Desktop\PAL\TodosParesEntre1e500\TodosParesEntre1e500\obj\Debug\net8.0\TodosParesEntre1e500.pdb
+C:\Users\joaquim.trindade\Desktop\PAL\TodosParesEntre1e500\TodosParesEntre1e500\obj\Debug\net8.0\TodosParesEntre1e500.genruntimeconfig.cache
+C:\Users\joaquim.trindade\Desktop\PAL\TodosParesEntre1e500\TodosParesEntre1e500\obj\Debug\net8.0\ref\TodosParesEntre1e500.dll

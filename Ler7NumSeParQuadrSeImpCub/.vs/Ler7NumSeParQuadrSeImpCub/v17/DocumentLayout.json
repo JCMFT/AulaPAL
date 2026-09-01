@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Ler7NumSeParQuadrSeImpCub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC882C9-5BE2-4BBF-8DA5-A855D75878AD}|Ler7NumSeParQuadrSeImpCub\\Ler7NumSeParQuadrSeImpCub.csproj|c:\\users\\joaquim.trindade\\desktop\\pal\\ler7numseparquadrseimpcub\\ler7numseparquadrseimpcub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC882C9-5BE2-4BBF-8DA5-A855D75878AD}|Ler7NumSeParQuadrSeImpCub\\Ler7NumSeParQuadrSeImpCub.csproj|solutionrelative:ler7numseparquadrseimpcub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Ler7NumSeParQuadrSeImpCub\\Ler7NumSeParQuadrSeImpCub\\Program.cs",
+              "RelativeDocumentMoniker": "Ler7NumSeParQuadrSeImpCub\\Program.cs",
+              "ToolTip": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Ler7NumSeParQuadrSeImpCub\\Ler7NumSeParQuadrSeImpCub\\Program.cs",
+              "RelativeToolTip": "Ler7NumSeParQuadrSeImpCub\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T17:48:15.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

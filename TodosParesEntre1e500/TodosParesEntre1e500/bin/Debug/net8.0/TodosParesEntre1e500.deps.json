@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TodosParesEntre1e500/1.0.0": {
+        "runtime": {
+          "TodosParesEntre1e500.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TodosParesEntre1e500/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
