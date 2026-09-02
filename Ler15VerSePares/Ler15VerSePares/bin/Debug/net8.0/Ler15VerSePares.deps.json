@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ler15VerSePares/1.0.0": {
+        "runtime": {
+          "Ler15VerSePares.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ler15VerSePares/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

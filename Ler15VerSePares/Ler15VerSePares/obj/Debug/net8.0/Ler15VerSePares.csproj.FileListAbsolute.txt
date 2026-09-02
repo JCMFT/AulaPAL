@@ -1,0 +1,15 @@
+C:\Users\joaquim.trindade\Desktop\PAL\Ler15VerSePares\Ler15VerSePares\bin\Debug\net8.0\Ler15VerSePares.exe
+C:\Users\joaquim.trindade\Desktop\PAL\Ler15VerSePares\Ler15VerSePares\bin\Debug\net8.0\Ler15VerSePares.deps.json
+C:\Users\joaquim.trindade\Desktop\PAL\Ler15VerSePares\Ler15VerSePares\bin\Debug\net8.0\Ler15VerSePares.runtimeconfig.json
+C:\Users\joaquim.trindade\Desktop\PAL\Ler15VerSePares\Ler15VerSePares\bin\Debug\net8.0\Ler15VerSePares.dll
+C:\Users\joaquim.trindade\Desktop\PAL\Ler15VerSePares\Ler15VerSePares\bin\Debug\net8.0\Ler15VerSePares.pdb
+C:\Users\joaquim.trindade\Desktop\PAL\Ler15VerSePares\Ler15VerSePares\obj\Debug\net8.0\Ler15VerSePares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaquim.trindade\Desktop\PAL\Ler15VerSePares\Ler15VerSePares\obj\Debug\net8.0\Ler15VerSePares.AssemblyInfoInputs.cache
+C:\Users\joaquim.trindade\Desktop\PAL\Ler15VerSePares\Ler15VerSePares\obj\Debug\net8.0\Ler15VerSePares.AssemblyInfo.cs
+C:\Users\joaquim.trindade\Desktop\PAL\Ler15VerSePares\Ler15VerSePares\obj\Debug\net8.0\Ler15VerSePares.csproj.CoreCompileInputs.cache
+C:\Users\joaquim.trindade\Desktop\PAL\Ler15VerSePares\Ler15VerSePares\obj\Debug\net8.0\Ler15VerSePares.sourcelink.json
+C:\Users\joaquim.trindade\Desktop\PAL\Ler15VerSePares\Ler15VerSePares\obj\Debug\net8.0\Ler15VerSePares.dll
+C:\Users\joaquim.trindade\Desktop\PAL\Ler15VerSePares\Ler15VerSePares\obj\Debug\net8.0\refint\Ler15VerSePares.dll
+C:\Users\joaquim.trindade\Desktop\PAL\Ler15VerSePares\Ler15VerSePares\obj\Debug\net8.0\Ler15VerSePares.pdb
+C:\Users\joaquim.trindade\Desktop\PAL\Ler15VerSePares\Ler15VerSePares\obj\Debug\net8.0\Ler15VerSePares.genruntimeconfig.cache
+C:\Users\joaquim.trindade\Desktop\PAL\Ler15VerSePares\Ler15VerSePares\obj\Debug\net8.0\ref\Ler15VerSePares.dll
