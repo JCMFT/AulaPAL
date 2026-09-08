@@ -1,0 +1,15 @@
+C:\Users\joaquim.trindade\Desktop\PAL\1A90\1A90\bin\Debug\net8.0\1A90.exe
+C:\Users\joaquim.trindade\Desktop\PAL\1A90\1A90\bin\Debug\net8.0\1A90.deps.json
+C:\Users\joaquim.trindade\Desktop\PAL\1A90\1A90\bin\Debug\net8.0\1A90.runtimeconfig.json
+C:\Users\joaquim.trindade\Desktop\PAL\1A90\1A90\bin\Debug\net8.0\1A90.dll
+C:\Users\joaquim.trindade\Desktop\PAL\1A90\1A90\bin\Debug\net8.0\1A90.pdb
+C:\Users\joaquim.trindade\Desktop\PAL\1A90\1A90\obj\Debug\net8.0\1A90.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaquim.trindade\Desktop\PAL\1A90\1A90\obj\Debug\net8.0\1A90.AssemblyInfoInputs.cache
+C:\Users\joaquim.trindade\Desktop\PAL\1A90\1A90\obj\Debug\net8.0\1A90.AssemblyInfo.cs
+C:\Users\joaquim.trindade\Desktop\PAL\1A90\1A90\obj\Debug\net8.0\1A90.csproj.CoreCompileInputs.cache
+C:\Users\joaquim.trindade\Desktop\PAL\1A90\1A90\obj\Debug\net8.0\1A90.sourcelink.json
+C:\Users\joaquim.trindade\Desktop\PAL\1A90\1A90\obj\Debug\net8.0\1A90.dll
+C:\Users\joaquim.trindade\Desktop\PAL\1A90\1A90\obj\Debug\net8.0\refint\1A90.dll
+C:\Users\joaquim.trindade\Desktop\PAL\1A90\1A90\obj\Debug\net8.0\1A90.pdb
+C:\Users\joaquim.trindade\Desktop\PAL\1A90\1A90\obj\Debug\net8.0\1A90.genruntimeconfig.cache
+C:\Users\joaquim.trindade\Desktop\PAL\1A90\1A90\obj\Debug\net8.0\ref\1A90.dll

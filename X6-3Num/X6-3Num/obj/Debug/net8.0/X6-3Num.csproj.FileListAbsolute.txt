@@ -1,0 +1,15 @@
+C:\Users\joaquim.trindade\Desktop\PAL\X6-3Num\X6-3Num\bin\Debug\net8.0\X6-3Num.exe
+C:\Users\joaquim.trindade\Desktop\PAL\X6-3Num\X6-3Num\bin\Debug\net8.0\X6-3Num.deps.json
+C:\Users\joaquim.trindade\Desktop\PAL\X6-3Num\X6-3Num\bin\Debug\net8.0\X6-3Num.runtimeconfig.json
+C:\Users\joaquim.trindade\Desktop\PAL\X6-3Num\X6-3Num\bin\Debug\net8.0\X6-3Num.dll
+C:\Users\joaquim.trindade\Desktop\PAL\X6-3Num\X6-3Num\bin\Debug\net8.0\X6-3Num.pdb
+C:\Users\joaquim.trindade\Desktop\PAL\X6-3Num\X6-3Num\obj\Debug\net8.0\X6-3Num.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaquim.trindade\Desktop\PAL\X6-3Num\X6-3Num\obj\Debug\net8.0\X6-3Num.AssemblyInfoInputs.cache
+C:\Users\joaquim.trindade\Desktop\PAL\X6-3Num\X6-3Num\obj\Debug\net8.0\X6-3Num.AssemblyInfo.cs
+C:\Users\joaquim.trindade\Desktop\PAL\X6-3Num\X6-3Num\obj\Debug\net8.0\X6-3Num.csproj.CoreCompileInputs.cache
+C:\Users\joaquim.trindade\Desktop\PAL\X6-3Num\X6-3Num\obj\Debug\net8.0\X6-3Num.sourcelink.json
+C:\Users\joaquim.trindade\Desktop\PAL\X6-3Num\X6-3Num\obj\Debug\net8.0\X6-3Num.dll
+C:\Users\joaquim.trindade\Desktop\PAL\X6-3Num\X6-3Num\obj\Debug\net8.0\refint\X6-3Num.dll
+C:\Users\joaquim.trindade\Desktop\PAL\X6-3Num\X6-3Num\obj\Debug\net8.0\X6-3Num.pdb
+C:\Users\joaquim.trindade\Desktop\PAL\X6-3Num\X6-3Num\obj\Debug\net8.0\X6-3Num.genruntimeconfig.cache
+C:\Users\joaquim.trindade\Desktop\PAL\X6-3Num\X6-3Num\obj\Debug\net8.0\ref\X6-3Num.dll
