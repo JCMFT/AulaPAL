@@ -1,3 +1,0 @@
-1º git add.
-2º git commit -m "NomeTrabalho"
-3º git push
