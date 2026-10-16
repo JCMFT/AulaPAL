@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Ler11Jogadores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5F5C05-1DF7-4F79-A0F7-023239F59D1E}|Ler11Jogadores\\Ler11Jogadores.csproj|c:\\users\\joaquim.trindade\\desktop\\pal\\ler11jogadores\\ler11jogadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5F5C05-1DF7-4F79-A0F7-023239F59D1E}|Ler11Jogadores\\Ler11Jogadores.csproj|solutionrelative:ler11jogadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Ler11Jogadores\\Ler11Jogadores\\Program.cs",
+              "RelativeDocumentMoniker": "Ler11Jogadores\\Program.cs",
+              "ToolTip": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Ler11Jogadores\\Ler11Jogadores\\Program.cs",
+              "RelativeToolTip": "Ler11Jogadores\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T14:08:52.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

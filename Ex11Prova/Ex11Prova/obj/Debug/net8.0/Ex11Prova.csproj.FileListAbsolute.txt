@@ -1,0 +1,15 @@
+C:\Users\joaquim.trindade\Desktop\PAL\Ex11Prova\Ex11Prova\bin\Debug\net8.0\Ex11Prova.exe
+C:\Users\joaquim.trindade\Desktop\PAL\Ex11Prova\Ex11Prova\bin\Debug\net8.0\Ex11Prova.deps.json
+C:\Users\joaquim.trindade\Desktop\PAL\Ex11Prova\Ex11Prova\bin\Debug\net8.0\Ex11Prova.runtimeconfig.json
+C:\Users\joaquim.trindade\Desktop\PAL\Ex11Prova\Ex11Prova\bin\Debug\net8.0\Ex11Prova.dll
+C:\Users\joaquim.trindade\Desktop\PAL\Ex11Prova\Ex11Prova\bin\Debug\net8.0\Ex11Prova.pdb
+C:\Users\joaquim.trindade\Desktop\PAL\Ex11Prova\Ex11Prova\obj\Debug\net8.0\Ex11Prova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaquim.trindade\Desktop\PAL\Ex11Prova\Ex11Prova\obj\Debug\net8.0\Ex11Prova.AssemblyInfoInputs.cache
+C:\Users\joaquim.trindade\Desktop\PAL\Ex11Prova\Ex11Prova\obj\Debug\net8.0\Ex11Prova.AssemblyInfo.cs
+C:\Users\joaquim.trindade\Desktop\PAL\Ex11Prova\Ex11Prova\obj\Debug\net8.0\Ex11Prova.csproj.CoreCompileInputs.cache
+C:\Users\joaquim.trindade\Desktop\PAL\Ex11Prova\Ex11Prova\obj\Debug\net8.0\Ex11Prova.sourcelink.json
+C:\Users\joaquim.trindade\Desktop\PAL\Ex11Prova\Ex11Prova\obj\Debug\net8.0\Ex11Prova.dll
+C:\Users\joaquim.trindade\Desktop\PAL\Ex11Prova\Ex11Prova\obj\Debug\net8.0\refint\Ex11Prova.dll
+C:\Users\joaquim.trindade\Desktop\PAL\Ex11Prova\Ex11Prova\obj\Debug\net8.0\Ex11Prova.pdb
+C:\Users\joaquim.trindade\Desktop\PAL\Ex11Prova\Ex11Prova\obj\Debug\net8.0\Ex11Prova.genruntimeconfig.cache
+C:\Users\joaquim.trindade\Desktop\PAL\Ex11Prova\Ex11Prova\obj\Debug\net8.0\ref\Ex11Prova.dll

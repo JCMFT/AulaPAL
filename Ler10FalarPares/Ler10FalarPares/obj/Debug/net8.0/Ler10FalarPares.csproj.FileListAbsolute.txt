@@ -1,0 +1,15 @@
+C:\Users\joaquim.trindade\Desktop\PAL\Ler10FalarPares\Ler10FalarPares\bin\Debug\net8.0\Ler10FalarPares.exe
+C:\Users\joaquim.trindade\Desktop\PAL\Ler10FalarPares\Ler10FalarPares\bin\Debug\net8.0\Ler10FalarPares.deps.json
+C:\Users\joaquim.trindade\Desktop\PAL\Ler10FalarPares\Ler10FalarPares\bin\Debug\net8.0\Ler10FalarPares.runtimeconfig.json
+C:\Users\joaquim.trindade\Desktop\PAL\Ler10FalarPares\Ler10FalarPares\bin\Debug\net8.0\Ler10FalarPares.dll
+C:\Users\joaquim.trindade\Desktop\PAL\Ler10FalarPares\Ler10FalarPares\bin\Debug\net8.0\Ler10FalarPares.pdb
+C:\Users\joaquim.trindade\Desktop\PAL\Ler10FalarPares\Ler10FalarPares\obj\Debug\net8.0\Ler10FalarPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaquim.trindade\Desktop\PAL\Ler10FalarPares\Ler10FalarPares\obj\Debug\net8.0\Ler10FalarPares.AssemblyInfoInputs.cache
+C:\Users\joaquim.trindade\Desktop\PAL\Ler10FalarPares\Ler10FalarPares\obj\Debug\net8.0\Ler10FalarPares.AssemblyInfo.cs
+C:\Users\joaquim.trindade\Desktop\PAL\Ler10FalarPares\Ler10FalarPares\obj\Debug\net8.0\Ler10FalarPares.csproj.CoreCompileInputs.cache
+C:\Users\joaquim.trindade\Desktop\PAL\Ler10FalarPares\Ler10FalarPares\obj\Debug\net8.0\Ler10FalarPares.sourcelink.json
+C:\Users\joaquim.trindade\Desktop\PAL\Ler10FalarPares\Ler10FalarPares\obj\Debug\net8.0\Ler10FalarPares.dll
+C:\Users\joaquim.trindade\Desktop\PAL\Ler10FalarPares\Ler10FalarPares\obj\Debug\net8.0\refint\Ler10FalarPares.dll
+C:\Users\joaquim.trindade\Desktop\PAL\Ler10FalarPares\Ler10FalarPares\obj\Debug\net8.0\Ler10FalarPares.pdb
+C:\Users\joaquim.trindade\Desktop\PAL\Ler10FalarPares\Ler10FalarPares\obj\Debug\net8.0\Ler10FalarPares.genruntimeconfig.cache
+C:\Users\joaquim.trindade\Desktop\PAL\Ler10FalarPares\Ler10FalarPares\obj\Debug\net8.0\ref\Ler10FalarPares.dll

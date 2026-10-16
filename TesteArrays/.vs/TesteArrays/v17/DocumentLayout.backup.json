@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\TesteArrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE2FD6D-A2E5-44C7-AFF9-D4C274465B5E}|TesteArrays\\TesteArrays.csproj|c:\\users\\joaquim.trindade\\desktop\\pal\\testearrays\\testearrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE2FD6D-A2E5-44C7-AFF9-D4C274465B5E}|TesteArrays\\TesteArrays.csproj|solutionrelative:testearrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\TesteArrays\\TesteArrays\\Program.cs",
+              "RelativeDocumentMoniker": "TesteArrays\\Program.cs",
+              "ToolTip": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\TesteArrays\\TesteArrays\\Program.cs*",
+              "RelativeToolTip": "TesteArrays\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T18:00:06.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

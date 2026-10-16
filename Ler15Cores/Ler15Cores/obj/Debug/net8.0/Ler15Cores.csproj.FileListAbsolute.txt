@@ -1,0 +1,15 @@
+C:\Users\joaquim.trindade\Desktop\PAL\Ler15Cores\Ler15Cores\bin\Debug\net8.0\Ler15Cores.exe
+C:\Users\joaquim.trindade\Desktop\PAL\Ler15Cores\Ler15Cores\bin\Debug\net8.0\Ler15Cores.deps.json
+C:\Users\joaquim.trindade\Desktop\PAL\Ler15Cores\Ler15Cores\bin\Debug\net8.0\Ler15Cores.runtimeconfig.json
+C:\Users\joaquim.trindade\Desktop\PAL\Ler15Cores\Ler15Cores\bin\Debug\net8.0\Ler15Cores.dll
+C:\Users\joaquim.trindade\Desktop\PAL\Ler15Cores\Ler15Cores\bin\Debug\net8.0\Ler15Cores.pdb
+C:\Users\joaquim.trindade\Desktop\PAL\Ler15Cores\Ler15Cores\obj\Debug\net8.0\Ler15Cores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaquim.trindade\Desktop\PAL\Ler15Cores\Ler15Cores\obj\Debug\net8.0\Ler15Cores.AssemblyInfoInputs.cache
+C:\Users\joaquim.trindade\Desktop\PAL\Ler15Cores\Ler15Cores\obj\Debug\net8.0\Ler15Cores.AssemblyInfo.cs
+C:\Users\joaquim.trindade\Desktop\PAL\Ler15Cores\Ler15Cores\obj\Debug\net8.0\Ler15Cores.csproj.CoreCompileInputs.cache
+C:\Users\joaquim.trindade\Desktop\PAL\Ler15Cores\Ler15Cores\obj\Debug\net8.0\Ler15Cores.sourcelink.json
+C:\Users\joaquim.trindade\Desktop\PAL\Ler15Cores\Ler15Cores\obj\Debug\net8.0\Ler15Cores.dll
+C:\Users\joaquim.trindade\Desktop\PAL\Ler15Cores\Ler15Cores\obj\Debug\net8.0\refint\Ler15Cores.dll
+C:\Users\joaquim.trindade\Desktop\PAL\Ler15Cores\Ler15Cores\obj\Debug\net8.0\Ler15Cores.pdb
+C:\Users\joaquim.trindade\Desktop\PAL\Ler15Cores\Ler15Cores\obj\Debug\net8.0\Ler15Cores.genruntimeconfig.cache
+C:\Users\joaquim.trindade\Desktop\PAL\Ler15Cores\Ler15Cores\obj\Debug\net8.0\ref\Ler15Cores.dll
