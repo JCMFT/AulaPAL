@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Som1a300\\Som1a300\\Som1a300.csproj": {}
+    "C:\\Users\\joaquim.trindade\\Desktop\\Tecnico\\PAL\\PAL\\Som1a300\\Som1a300\\Som1a300.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Som1a300\\Som1a300\\Som1a300.csproj": {
+    "C:\\Users\\joaquim.trindade\\Desktop\\Tecnico\\PAL\\PAL\\Som1a300\\Som1a300\\Som1a300.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Som1a300\\Som1a300\\Som1a300.csproj",
+        "projectUniqueName": "C:\\Users\\joaquim.trindade\\Desktop\\Tecnico\\PAL\\PAL\\Som1a300\\Som1a300\\Som1a300.csproj",
         "projectName": "Som1a300",
-        "projectPath": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Som1a300\\Som1a300\\Som1a300.csproj",
+        "projectPath": "C:\\Users\\joaquim.trindade\\Desktop\\Tecnico\\PAL\\PAL\\Som1a300\\Som1a300\\Som1a300.csproj",
         "packagesPath": "C:\\Users\\joaquim.trindade\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Som1a300\\Som1a300\\obj\\",
+        "outputPath": "C:\\Users\\joaquim.trindade\\Desktop\\Tecnico\\PAL\\PAL\\Som1a300\\Som1a300\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaquim.trindade\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Consoante\\Consoante\\Consoante.csproj",
+      "projectUniqueName": "C:\\Users\\joaquim.trindade\\Desktop\\Tecnico\\PAL\\PAL\\Consoante\\Consoante\\Consoante.csproj",
       "projectName": "Consoante",
-      "projectPath": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Consoante\\Consoante\\Consoante.csproj",
+      "projectPath": "C:\\Users\\joaquim.trindade\\Desktop\\Tecnico\\PAL\\PAL\\Consoante\\Consoante\\Consoante.csproj",
       "packagesPath": "C:\\Users\\joaquim.trindade\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Consoante\\Consoante\\obj\\",
+      "outputPath": "C:\\Users\\joaquim.trindade\\Desktop\\Tecnico\\PAL\\PAL\\Consoante\\Consoante\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joaquim.trindade\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\1a500IMP\\",
+  "WorkspaceRootPath": "C:\\Users\\joaquim.trindade\\Desktop\\Tecnico\\PAL\\PAL\\1a500IMP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4588F286-EA73-49E6-AC7D-7E3944D4A35B}|1a500IMP\\1a500IMP.csproj|c:\\users\\joaquim.trindade\\desktop\\pal\\1a500imp\\1a500imp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4588F286-EA73-49E6-AC7D-7E3944D4A35B}|1a500IMP\\1a500IMP.csproj|c:\\users\\joaquim.trindade\\desktop\\tecnico\\pal\\pal\\1a500imp\\1a500imp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4588F286-EA73-49E6-AC7D-7E3944D4A35B}|1a500IMP\\1a500IMP.csproj|solutionrelative:1a500imp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\1a500IMP\\1a500IMP\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaquim.trindade\\Desktop\\Tecnico\\PAL\\PAL\\1a500IMP\\1a500IMP\\Program.cs",
               "RelativeDocumentMoniker": "1a500IMP\\Program.cs",
-              "ToolTip": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\1a500IMP\\1a500IMP\\Program.cs",
+              "ToolTip": "C:\\Users\\joaquim.trindade\\Desktop\\Tecnico\\PAL\\PAL\\1a500IMP\\1a500IMP\\Program.cs",
               "RelativeToolTip": "1a500IMP\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Mult345\\Mult345\\Mult345.csproj": {}
+    "C:\\Users\\joaquim.trindade\\Desktop\\Tecnico\\PAL\\PAL\\Mult345\\Mult345\\Mult345.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Mult345\\Mult345\\Mult345.csproj": {
+    "C:\\Users\\joaquim.trindade\\Desktop\\Tecnico\\PAL\\PAL\\Mult345\\Mult345\\Mult345.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Mult345\\Mult345\\Mult345.csproj",
+        "projectUniqueName": "C:\\Users\\joaquim.trindade\\Desktop\\Tecnico\\PAL\\PAL\\Mult345\\Mult345\\Mult345.csproj",
         "projectName": "Mult345",
-        "projectPath": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Mult345\\Mult345\\Mult345.csproj",
+        "projectPath": "C:\\Users\\joaquim.trindade\\Desktop\\Tecnico\\PAL\\PAL\\Mult345\\Mult345\\Mult345.csproj",
         "packagesPath": "C:\\Users\\joaquim.trindade\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Mult345\\Mult345\\obj\\",
+        "outputPath": "C:\\Users\\joaquim.trindade\\Desktop\\Tecnico\\PAL\\PAL\\Mult345\\Mult345\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaquim.trindade\\AppData\\Roaming\\NuGet\\NuGet.Config",

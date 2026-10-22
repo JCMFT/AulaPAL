@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Ler1A700IMP\\",
+  "WorkspaceRootPath": "C:\\Users\\joaquim.trindade\\Desktop\\Tecnico\\PAL\\PAL\\Ler1A700IMP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{74ADA493-5313-4AA1-9E46-CDCDD1B656C7}|Ler1A700IMP\\Ler1A700IMP.csproj|c:\\users\\joaquim.trindade\\desktop\\pal\\ler1a700imp\\ler1a700imp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{74ADA493-5313-4AA1-9E46-CDCDD1B656C7}|Ler1A700IMP\\Ler1A700IMP.csproj|c:\\users\\joaquim.trindade\\desktop\\tecnico\\pal\\pal\\ler1a700imp\\ler1a700imp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74ADA493-5313-4AA1-9E46-CDCDD1B656C7}|Ler1A700IMP\\Ler1A700IMP.csproj|solutionrelative:ler1a700imp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Ler1A700IMP\\Ler1A700IMP\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaquim.trindade\\Desktop\\Tecnico\\PAL\\PAL\\Ler1A700IMP\\Ler1A700IMP\\Program.cs",
               "RelativeDocumentMoniker": "Ler1A700IMP\\Program.cs",
-              "ToolTip": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Ler1A700IMP\\Ler1A700IMP\\Program.cs",
+              "ToolTip": "C:\\Users\\joaquim.trindade\\Desktop\\Tecnico\\PAL\\PAL\\Ler1A700IMP\\Ler1A700IMP\\Program.cs",
               "RelativeToolTip": "Ler1A700IMP\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tabuada1a10")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14a28a07cd26b9ad64abccd087fb39e38dcdfa1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tabuada1a10")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tabuada1a10")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

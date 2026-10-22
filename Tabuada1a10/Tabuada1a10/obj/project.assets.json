@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Tabuada1a10\\Tabuada1a10\\Tabuada1a10.csproj",
+      "projectUniqueName": "C:\\Users\\joaquim.trindade\\Desktop\\Tecnico\\PAL\\PAL\\Tabuada1a10\\Tabuada1a10\\Tabuada1a10.csproj",
       "projectName": "Tabuada1a10",
-      "projectPath": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Tabuada1a10\\Tabuada1a10\\Tabuada1a10.csproj",
+      "projectPath": "C:\\Users\\joaquim.trindade\\Desktop\\Tecnico\\PAL\\PAL\\Tabuada1a10\\Tabuada1a10\\Tabuada1a10.csproj",
       "packagesPath": "C:\\Users\\joaquim.trindade\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Tabuada1a10\\Tabuada1a10\\obj\\",
+      "outputPath": "C:\\Users\\joaquim.trindade\\Desktop\\Tecnico\\PAL\\PAL\\Tabuada1a10\\Tabuada1a10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joaquim.trindade\\AppData\\Roaming\\NuGet\\NuGet.Config",

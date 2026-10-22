@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Ler1A700IMP\\Ler1A700IMP\\Ler1A700IMP.csproj": {}
+    "C:\\Users\\joaquim.trindade\\Desktop\\Tecnico\\PAL\\PAL\\Ler1A700IMP\\Ler1A700IMP\\Ler1A700IMP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Ler1A700IMP\\Ler1A700IMP\\Ler1A700IMP.csproj": {
+    "C:\\Users\\joaquim.trindade\\Desktop\\Tecnico\\PAL\\PAL\\Ler1A700IMP\\Ler1A700IMP\\Ler1A700IMP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Ler1A700IMP\\Ler1A700IMP\\Ler1A700IMP.csproj",
+        "projectUniqueName": "C:\\Users\\joaquim.trindade\\Desktop\\Tecnico\\PAL\\PAL\\Ler1A700IMP\\Ler1A700IMP\\Ler1A700IMP.csproj",
         "projectName": "Ler1A700IMP",
-        "projectPath": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Ler1A700IMP\\Ler1A700IMP\\Ler1A700IMP.csproj",
+        "projectPath": "C:\\Users\\joaquim.trindade\\Desktop\\Tecnico\\PAL\\PAL\\Ler1A700IMP\\Ler1A700IMP\\Ler1A700IMP.csproj",
         "packagesPath": "C:\\Users\\joaquim.trindade\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Ler1A700IMP\\Ler1A700IMP\\obj\\",
+        "outputPath": "C:\\Users\\joaquim.trindade\\Desktop\\Tecnico\\PAL\\PAL\\Ler1A700IMP\\Ler1A700IMP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaquim.trindade\\AppData\\Roaming\\NuGet\\NuGet.Config",

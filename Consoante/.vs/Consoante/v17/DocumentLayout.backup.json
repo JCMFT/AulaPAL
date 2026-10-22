@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Consoante\\",
+  "WorkspaceRootPath": "C:\\Users\\joaquim.trindade\\Desktop\\Tecnico\\PAL\\PAL\\Consoante\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E49FFB72-E603-4DD3-BB63-DD93A5192882}|Consoante\\Consoante.csproj|c:\\users\\joaquim.trindade\\desktop\\pal\\consoante\\consoante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E49FFB72-E603-4DD3-BB63-DD93A5192882}|Consoante\\Consoante.csproj|c:\\users\\joaquim.trindade\\desktop\\tecnico\\pal\\pal\\consoante\\consoante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E49FFB72-E603-4DD3-BB63-DD93A5192882}|Consoante\\Consoante.csproj|solutionrelative:consoante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Consoante\\Consoante\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaquim.trindade\\Desktop\\Tecnico\\PAL\\PAL\\Consoante\\Consoante\\Program.cs",
               "RelativeDocumentMoniker": "Consoante\\Program.cs",
-              "ToolTip": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Consoante\\Consoante\\Program.cs",
+              "ToolTip": "C:\\Users\\joaquim.trindade\\Desktop\\Tecnico\\PAL\\PAL\\Consoante\\Consoante\\Program.cs",
               "RelativeToolTip": "Consoante\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-14T13:43:23.096Z",
               "EditorCaption": ""

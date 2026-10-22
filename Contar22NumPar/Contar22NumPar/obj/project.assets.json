@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Contar22NumPar\\Contar22NumPar\\Contar22NumPar.csproj",
+      "projectUniqueName": "C:\\Users\\joaquim.trindade\\Desktop\\Tecnico\\PAL\\PAL\\Contar22NumPar\\Contar22NumPar\\Contar22NumPar.csproj",
       "projectName": "Contar22NumPar",
-      "projectPath": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Contar22NumPar\\Contar22NumPar\\Contar22NumPar.csproj",
+      "projectPath": "C:\\Users\\joaquim.trindade\\Desktop\\Tecnico\\PAL\\PAL\\Contar22NumPar\\Contar22NumPar\\Contar22NumPar.csproj",
       "packagesPath": "C:\\Users\\joaquim.trindade\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Contar22NumPar\\Contar22NumPar\\obj\\",
+      "outputPath": "C:\\Users\\joaquim.trindade\\Desktop\\Tecnico\\PAL\\PAL\\Contar22NumPar\\Contar22NumPar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joaquim.trindade\\AppData\\Roaming\\NuGet\\NuGet.Config",

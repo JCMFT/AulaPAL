@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Som1a300\\",
+  "WorkspaceRootPath": "C:\\Users\\joaquim.trindade\\Desktop\\Tecnico\\PAL\\PAL\\Som1a300\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5E1D6A5-A22C-49E7-A1AA-BB887D5267A7}|Som1a300\\Som1a300.csproj|c:\\users\\joaquim.trindade\\desktop\\pal\\som1a300\\som1a300\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A5E1D6A5-A22C-49E7-A1AA-BB887D5267A7}|Som1a300\\Som1a300.csproj|c:\\users\\joaquim.trindade\\desktop\\tecnico\\pal\\pal\\som1a300\\som1a300\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5E1D6A5-A22C-49E7-A1AA-BB887D5267A7}|Som1a300\\Som1a300.csproj|solutionrelative:som1a300\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Som1a300\\Som1a300\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaquim.trindade\\Desktop\\Tecnico\\PAL\\PAL\\Som1a300\\Som1a300\\Program.cs",
               "RelativeDocumentMoniker": "Som1a300\\Program.cs",
-              "ToolTip": "C:\\Users\\joaquim.trindade\\Desktop\\PAL\\Som1a300\\Som1a300\\Program.cs",
+              "ToolTip": "C:\\Users\\joaquim.trindade\\Desktop\\Tecnico\\PAL\\PAL\\Som1a300\\Som1a300\\Program.cs",
               "RelativeToolTip": "Som1a300\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

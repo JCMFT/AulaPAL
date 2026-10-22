@@ -1,13 +1,12 @@
-C:\Users\joaquim.trindade\Desktop\PAL\Ler22Num\Ler22Num\obj\Debug\net8.0\Ler22Num.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\joaquim.trindade\Desktop\PAL\Ler22Num\Ler22Num\obj\Debug\net8.0\Ler22Num.AssemblyInfoInputs.cache
-C:\Users\joaquim.trindade\Desktop\PAL\Ler22Num\Ler22Num\obj\Debug\net8.0\Ler22Num.AssemblyInfo.cs
-C:\Users\joaquim.trindade\Desktop\PAL\Ler22Num\Ler22Num\obj\Debug\net8.0\Ler22Num.csproj.CoreCompileInputs.cache
-C:\Users\joaquim.trindade\Desktop\PAL\Ler22Num\Ler22Num\obj\Debug\net8.0\Ler22Num.sourcelink.json
 C:\Users\joaquim.trindade\Desktop\PAL\Ler22Num\Ler22Num\bin\Debug\net8.0\Ler22Num.exe
 C:\Users\joaquim.trindade\Desktop\PAL\Ler22Num\Ler22Num\bin\Debug\net8.0\Ler22Num.deps.json
 C:\Users\joaquim.trindade\Desktop\PAL\Ler22Num\Ler22Num\bin\Debug\net8.0\Ler22Num.runtimeconfig.json
 C:\Users\joaquim.trindade\Desktop\PAL\Ler22Num\Ler22Num\bin\Debug\net8.0\Ler22Num.dll
 C:\Users\joaquim.trindade\Desktop\PAL\Ler22Num\Ler22Num\bin\Debug\net8.0\Ler22Num.pdb
+C:\Users\joaquim.trindade\Desktop\PAL\Ler22Num\Ler22Num\obj\Debug\net8.0\Ler22Num.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaquim.trindade\Desktop\PAL\Ler22Num\Ler22Num\obj\Debug\net8.0\Ler22Num.AssemblyInfoInputs.cache
+C:\Users\joaquim.trindade\Desktop\PAL\Ler22Num\Ler22Num\obj\Debug\net8.0\Ler22Num.AssemblyInfo.cs
+C:\Users\joaquim.trindade\Desktop\PAL\Ler22Num\Ler22Num\obj\Debug\net8.0\Ler22Num.csproj.CoreCompileInputs.cache
 C:\Users\joaquim.trindade\Desktop\PAL\Ler22Num\Ler22Num\obj\Debug\net8.0\Ler22Num.dll
 C:\Users\joaquim.trindade\Desktop\PAL\Ler22Num\Ler22Num\obj\Debug\net8.0\refint\Ler22Num.dll
 C:\Users\joaquim.trindade\Desktop\PAL\Ler22Num\Ler22Num\obj\Debug\net8.0\Ler22Num.pdb
